@@ -24,4 +24,3 @@ The solution merges three distinct datasets to provide a 360-degree view of play
 - **Data Integration (Multi-source ETL)**
 - **Sports Metrics Analysis**
 - **Technical Reporting**
-- 
